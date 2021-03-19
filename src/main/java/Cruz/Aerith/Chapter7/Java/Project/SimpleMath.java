@@ -12,5 +12,10 @@ public class SimpleMath {
 		return result;
 
 	}
+	
+	public double multiply(double number1, double number2) {
+		double multiplyResult = number1 * number2;
+		return multiplyResult;
+	}
 
 }
